@@ -9,7 +9,7 @@ Este proyecto es una tienda en línea desarrollada con PHP y MySQL, utilizando c
 El desarrollo de esta tienda tiene los siguientes objetivos:
 
 - Listar productos disponibles.
-  ![image](https://github.com/user-attachments/assets/bdcde0b4-92f8-4da4-b507-d13e80c82cce)
+  ![image](https://github.com/user-attachments/assets/f906de3a-490d-4cda-b8dc-2cdfdf8cb656)
 - Mostrar la descripción detallada de un producto.
   ![image](https://github.com/user-attachments/assets/f5973192-e103-4bde-a332-58108dafa727)
 - Implementar un sistema de inicio de sesión para administradores y usuarios.
